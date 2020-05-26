@@ -7,8 +7,7 @@ Clustering is a form of machine learning techniques that allow you to find natur
 When looking in the context of business, many use cases often involve the segmentation of a large number of customers in similar groups. Today, we will look at an unsupervised dataset containing a variety of wheat kernels, which will be clustered into groups using the KMeans Clustering algorithm.
 
 * Title - Clustering Analysis of Wheat Kernels
-* Goal - To find target shopper groups from our large mall shopper dataset
-* Variables - Gender, Age, Annual Income, Spending Score
+* Goal - To find defined clusters for our wheat kernels, using 7 characteristics 
 * Technique - KMeans Clustering
 * Technologies – Python (Jupyter Notebook)
 
